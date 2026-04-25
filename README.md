@@ -90,20 +90,16 @@ The user can aim, shoot, and score goals against a moving target inside the stad
 ## 🖼️ Screenshots
 
 ### 🏟️ Stadium View
+![Stadium](four_view_port.jpeg)
 
-![Stadium](images/stadium_view.png)
+### 🎮 Side View
+![Side](side view.jpeg)
 
-### 🎮 Gameplay
+### 🔝 Top View
+![Top](top view.jpeg)
 
-![Gameplay](images/gameplay.png)
-
-### 💡 Lighting Effects
-
-![Lighting](images/lighting.png)
-
-### 📊 Multi-Viewport Mode
-
-![Viewport](images/viewport.png)
+### 👁️ View
+![View](view.jpeg)
 
 ---
 
