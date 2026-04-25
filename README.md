@@ -107,10 +107,12 @@ The user can aim, shoot, and score goals against a moving target inside the stad
 
 ---
 
-## 🎥 Demo Video
-
-👉 Watch the demo here:
-[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+<h2>🎥 Demo Video</h2>
+<p align="center">
+  <a href="https://youtu.be/3h_pJdf7yw0">
+    <img src="https://img.youtube.com/vi/3h_pJdf7yw0/0.jpg" width="600">
+  </a>
+</p>
 
 ---
 
