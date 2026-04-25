@@ -1,6 +1,6 @@
 # ⚽ 3D Football  Arena (OpenGL)
 
-A fully interactive **3D Football Stadium Simulation** built using OpenGL 3.3.
+A fully interactive **3D Football Arena Simulation** built using OpenGL 3.3.
 This project combines real-time rendering, animation, and gameplay mechanics into a single immersive experience.
 
 ---
